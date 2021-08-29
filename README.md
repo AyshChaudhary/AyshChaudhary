@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm Ayush Chaudhary From India I'm student right now and really enjoying working open source.
+
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/ayush-chaudhary-b3841216a/">Ayush Chaudhary</a> 👨‍🎓
 
 
