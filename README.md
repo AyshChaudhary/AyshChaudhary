@@ -2,6 +2,7 @@
 
 
 ## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am <a href="https://www.linkedin.com/in/ayush-chaudhary-b3841216a/">Ayush Chaudhary</a> 👨‍🎓
+[![@yashchaudhary's Holopin board](https://holopin.io/api/user/board?user=yashchaudhary)](https://holopin.io/@yashchaudhary)
 
 
 ## About Me ✍
