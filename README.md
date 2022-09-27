@@ -47,7 +47,7 @@ I love whatever I do...and also I do whatever I love...💜
 <img align='left' src='https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif' width='250"'>
 As we all know that under engineering, technical skills always provide unique gratitude and passion for any technical guy. So these technical skills of the engineer always help him, in the same way at all the time.
 
-
+<!-- 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -71,7 +71,7 @@ As we all know that under engineering, technical skills always provide unique gr
  [![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=ffffff)](https://flask.palletsprojects.com/)
  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=ffffff)](https://kubernetes.io/)
 
-
+ -->
 
 <!--footer-->
 
@@ -82,7 +82,7 @@ As we all know that under engineering, technical skills always provide unique gr
 <div align="center">
 <a href="<div align="center">
                             
-<a href="https://github.com/AyshChaudhary" target="_blank">
+<a href="https://github.com/AyshChaudhary-Github" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/ayush-chaudhary-b3841216a/" target="_blank">
@@ -95,7 +95,7 @@ As we all know that under engineering, technical skills always provide unique gr
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-<a href="https://github.com/AyshChaudhary"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
+<a href="https://github.com/AyshChaudhary-Github"><img src="https://github.com/simonw/simonw/workflows/Build%20README/badge.svg" align="right" alt="Build README">
 
 
 
