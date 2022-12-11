@@ -6,10 +6,11 @@
 
 
 ## About Me ✍
-I'm Ayush Chaudhary pursuing Master in cumputer Application.
-I'm also passionate in learning Data Science.
-I'm a quick and passionate learner.I always passionate about understanding the core concepts behind different popular Technological Fields.
-I think no matter how hard the past is, you can always begin again...
+I'm Ayush Chaudhary pursuing a Master's in Computer Application.
+I'm passionate about learning Single page Web Apps in React.
+I also have previus 1.6 year Work experience in IOT.
+I'm a quick and passionate learner. I am always passionate about understanding the core concepts behind different popular Technological Fields.
+I think no matter how hard the past is, you can always begin again.
 and I believe every day is a chance to begin again.
 I love whatever I do...and also I do whatever I love...💜
 
