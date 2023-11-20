@@ -4,7 +4,7 @@
 
 💡 I'm passionate about harnessing the power of technology and data to drive meaningful change.
 
-🌟 With 2.1 years of prior experience in IoT and data analysis, I bring practical expertise to the table.
+🌟 With years of prior experience in IoT and data analysis, I bring practical expertise to the table.
 
 🚀 I'm a dedicated lifelong learner, constantly exploring the intricacies of diverse technologies.
 
@@ -36,9 +36,7 @@
 
 - Data Analysis
 - Business Analysis
-- Software Development
-- JavaScript
-- React
+- AI
 - IoT
 - Excel
 - PowerBI
