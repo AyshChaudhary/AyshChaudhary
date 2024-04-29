@@ -26,20 +26,15 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Ayushch80671614)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayush-chaudhary-b3841216a/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AyshChaudhary)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ayush_chaudhary_0/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Ayushchaudhary101)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCP5WHpqRcSyJr1ou3hP0ukQ)
 
 ## Technical Skills 🛠️
 
 👨‍💻 My skill set empowers me in various domains, including:
 
-- Data Analysis
-- Business Analysis
+- Web3
 - AI
 - IoT
-- Excel
-- PowerBI
+- React
 
 Let's connect and explore the limitless possibilities of technology together! 🌐
 
